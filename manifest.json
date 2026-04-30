@@ -1,0 +1,39 @@
+{
+  "name": "KIEVOKIO — Be Outside The Box",
+  "short_name": "KIEVOKIO",
+  "description": "La Mode Qui Ose Tout",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#080808",
+  "orientation": "portrait",
+  "categories": ["shopping", "lifestyle"],
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Shop",
+      "url": "/shop",
+      "description": "Parcourir la collection"
+    },
+    {
+      "name": "Mon Panier",
+      "url": "/cart",
+      "description": "Voir mon panier"
+    }
+  ]
+}
